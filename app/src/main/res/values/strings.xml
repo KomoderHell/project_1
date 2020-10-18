@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">YourCartDelivery</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="FCM_PREF">com.example.android.yourcartdelivery.fcm_pref</string>
-    <string name="FCM_TOKEN">com.example.android.yourcartdelivery.fcm_token</string>
-</resources>
